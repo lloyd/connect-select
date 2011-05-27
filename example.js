@@ -5,7 +5,7 @@
  */
 
 // you can remove this if you've installed connect-select
-require.paths.unshift("../src");
+require.paths.unshift("./src");
 
 const   connect = require('connect'),
   CSEL = require('connect-select');
