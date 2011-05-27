@@ -53,3 +53,6 @@ var server = connect.createServer()
 server.listen(60000, "127.0.0.1");
 var a = server.address();
 console.log("Server started on: http://" + a.address + ":" + a.port);
+
+console.log("Try a query, like: ");
+console.log("  $ curl http://" + a.address + ":" + a.port + "/?select=.favoriteColor");

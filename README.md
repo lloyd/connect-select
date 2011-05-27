@@ -1,9 +1,9 @@
 ## YOU'RE SENDING LOTS OF DATA THAT PEOPLE DON'T CARE ABOUT.
 
-Stop it.
+So stop it.
 
 connect-select is [connect](https://github.com/senchalabs/connect)
-middleware that allows the *API client* to provide a
+middleware that allows the *client* to provide a
 [JSONSelect](http://jsonselect.org) selector which will filter JSON on
 the server.  Usage looks like this:
 
