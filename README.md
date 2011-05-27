@@ -3,8 +3,9 @@
 Stop it.
 
 connect-select is [connect](https://github.com/senchalabs/connect)
-middleware that allows the *API client* to provide a selector which
-will filter JSON on the server.  Usage looks like this:
+middleware that allows the *API client* to provide a
+[JSONSelect](http://jsonselect.org) selector which will filter JSON on
+the server.  Usage looks like this:
 
 Request before connect-select:
 
