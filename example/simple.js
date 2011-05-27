@@ -4,6 +4,7 @@
  * See LICENSE file for licensing information.
  */
 
+// you can remove this if you've installed connect-select
 require.paths.unshift("../src");
 
 const   connect = require('connect'),
