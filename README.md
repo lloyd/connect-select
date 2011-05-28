@@ -1,6 +1,6 @@
 ## YOU'RE SENDING LOTS OF DATA THAT PEOPLE DON'T CARE ABOUT.
 
-So stop it.
+So stop it!  (I'm looking at YOU, [twitter](http://dev.twitter.com/doc/get/statuses/public_timeline))
 
 connect-select is [connect](https://github.com/senchalabs/connect)
 middleware that allows the *client* to provide a
