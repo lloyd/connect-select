@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/lloyd/connect-select.png)](http://travis-ci.org/lloyd/connect-select)
 ## YOU'RE SENDING LOTS OF DATA THAT PEOPLE DON'T CARE ABOUT.
 
 So stop it!  (I'm looking at YOU, [twitter](http://dev.twitter.com/doc/get/statuses/public_timeline))
